@@ -3,13 +3,13 @@
 Спецификация ECMAScript 2015 дополнила, расширила и упростила инструменты языка
 
 * [Определение переменных и констант](https://github.com/filonitta/nodejs-lecture/blob/master/es6.md#Определение-переменных-и-констант)
-* [Оператор rest/spread](https://github.com/filonitta/nodejs-lecture#оператор-restspread)
-* [Стрелочные функции](https://github.com/filonitta/nodejs-lecture#стрелочные-функции)
-* [Деструктуризация](https://github.com/filonitta/nodejs-lecture#деструктуризация)
-* [ООП](https://github.com/filonitta/nodejs-lecture#ооп)
-* [Promise](https://github.com/filonitta/nodejs-lecture#promise)
-* [asinc/await](https://github.com/filonitta/nodejs-lecture#asincawait)
-* [Модули](https://github.com/filonitta/nodejs-lecture#модули)
+* [Оператор rest/spread](https://github.com/filonitta/nodejs-lecture/blob/master/es6.md#оператор-restspread)
+* [Стрелочные функции](https://github.com/filonitta/nodejs-lecture/blob/master/es6.md#стрелочные-функции)
+* [Деструктуризация](https://github.com/filonitta/nodejs-lecture/blob/master/es6.md#деструктуризация)
+* [ООП](https://github.com/filonitta/nodejs-lecture/blob/master/es6.md#ооп)
+* [Promise](https://github.com/filonitta/nodejs-lecture/blob/master/es6.md#promise)
+* [asinc/await](https://github.com/filonitta/nodejs-lecture/blob/master/es6.md#asincawait)
+* [Модули](https://github.com/filonitta/nodejs-lecture/blob/master/es6.md#модули)
 
 ## Определение переменных и констант
 
