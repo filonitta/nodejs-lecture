@@ -2,14 +2,14 @@
 
 Спецификация ECMAScript 2015 дополнила, расширила и упростила инструменты языка
 
-* [Определение переменных и констант](https://github.com/filonitta/nodejs-lecture#section1)
-* [Оператор rest/spread](https://github.com/filonitta/nodejs-lecture#section2)
-* [Стрелочные функции](https://github.com/filonitta/nodejs-lecture#section3)
-* [Деструктуризация](https://github.com/filonitta/nodejs-lecture#section4)
-* [ООП](https://github.com/filonitta/nodejs-lecture#section5)
-* [Promise](https://github.com/filonitta/nodejs-lecture#section6)
-* [asinc/await](https://github.com/filonitta/nodejs-lecture#section7)
-* [Модули](https://github.com/filonitta/nodejs-lecture#section8)
+* [Определение переменных и констант](https://github.com/filonitta/nodejs-lecture/blob/master/es6.md#Определение-переменных-и-констант)
+* [Оператор rest/spread](https://github.com/filonitta/nodejs-lecture#оператор-restspread)
+* [Стрелочные функции](https://github.com/filonitta/nodejs-lecture#стрелочные-функции)
+* [Деструктуризация](https://github.com/filonitta/nodejs-lecture#деструктуризация)
+* [ООП](https://github.com/filonitta/nodejs-lecture#ооп)
+* [Promise](https://github.com/filonitta/nodejs-lecture#promise)
+* [asinc/await](https://github.com/filonitta/nodejs-lecture#asincawait)
+* [Модули](https://github.com/filonitta/nodejs-lecture#модули)
 
 ## Определение переменных и констант
 
